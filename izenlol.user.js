@@ -23,6 +23,7 @@
 // @match        *://direct-link.net/*
 // @match        *://loot-link.com/*
 // @match        *://lootdest.org/*
+// @match        *://links.lootlabs.gg/s?*
 // @match        *://free-content.pro/*
 // @match        *://lootdest.com/*
 // @match        *://bleleadersto.com/*
