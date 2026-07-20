@@ -4,9 +4,6 @@
 // @version      1.0.0
 // @description  Platoboost, Work.ink, Linkvertise, Admaven (Lootlabs, etc.) and more bypass userscript for izen.lol. This userscript is designed to bypass various link shorteners and ad services commonly used on izen.lol, allowing users to access content without unnecessary redirects or ads.
 // @author       Gabriel
-// @match        *://auth.platorelay.com/*
-// @match        *://auth.platoboost.app/*
-// @match        *://auth.platoboost.me/*
 // @match        *://pandadevelopment.net/*
 // @match        *://new.pandadevelopment.net/*
 // @match        *://trigonevo.com/*
